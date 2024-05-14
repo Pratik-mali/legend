@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <p>
+        <h1>
           We are comming soon
-        </p>
+        </h1>
         <a
           className="App-link"
           href="http://legenderfx.com"
