@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <h1>
-          We are comming soon
+          We are comming soon.....
         </h1>
         <a
           className="App-link"
